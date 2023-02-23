@@ -1,0 +1,15 @@
+---
+title: "Interactive Web Mapping"
+description: |
+  Welcome to the interactive web mapping. I hope you enjoy it!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+- Explore the interactive surveying web mapping:
+http://www.sergeo.deg.ufla.br/webMali/webMapFotos.html
+
+

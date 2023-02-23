@@ -1,0 +1,11 @@
+---
+title: "Help"
+description: |
+  Please, see how to use the website mapping application
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](videogif.gif)

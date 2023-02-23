@@ -1,0 +1,66 @@
+---
+title: Monitoring Interest Areas in Bandiagara II Using Geocomputation and Geotagged
+  Photos
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+bibliography: mybib.bib
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+# Work presentation {-}
+
+The Village Bandiagara II is part of the Zangasso commune in the Cercle of Koutiala in the Sikasso region of southern Mali. Basically, it is composed of desert and semi-desert areas, which has a well-defined climatic seasonality with a marked drought.
+
+On February 15th, we walked around the perimeter of the village, recording the route on a walking line with Garmin Forerunner 235 GPS measurements , and simultaneously recording geottaged photos using the Iphone 12 mini cell phone (Ilustration in figure \@ref(fig:fig01c)). 
+
+
+```{r  fig01c, echo=FALSE, out.width = '100%', fig.align="center", fig.cap="Ilustration geotagged photo."}
+
+knitr::include_graphics("assets/IMG_5659.JPG")
+
+```
+
+
+Using R and R packages: dplyr [@R-Wickham2021dply], ggplot2 [@R-Wickham2020ggplot2], leaflet [@R-Cheng2021leaflet], leafpop [@R-Appelhans2021leafpop], lubridate [@R-Spinu2021lubridate], purrr [@R-Wickham2023purrr], readr [@R-Wickham2023readr], sf [@R-Pebesma2021sf], tibble [@R-Muller2022tibble], tidyr [@R-Wickham2020tidyr], and exifr [@R-Dunnington2021exifr]. 
+
+This walk is the delimitation of the georeferenced area, making it possible to recognize the place by recording topographic information, land cover and use, the interactions between the residents of the rail such and the neighboring tribes, understanding the use of construction elements and its surrounding environment and, therefore, exploring the potential to reveal interesting areas and their underlying space-time dynamics to improve the quality of health and sanitation.
+
+OpenStreetMap.France (https://www.openstreetmap.fr/) and EsriWorldImagery (https://www.esri.com/en-us/arcgis/products/data/data-portfolio/imagery)
+
+- Explore the interactive surveying in the web:
+[click here](http://www.sergeo.deg.ufla.br/webMali/webMapFotos.html)
+
+```{r, eval=F, echo=F, include=F}
+https://rstudio.github.io/distill/website.html
+https://www.shinyapps.io/admin/#/dashboard # exportar site
+  library(rsconnect)
+  rsconnect::deployApp('D:/manuscript/Mali/geotagpres/_site')
+
+usando github
+file.create("D:/manuscript/Mali/geotagpres/_site/man.nojekyll")
+
+https://github.com/marcelocarvalhoalves/Bangadiara.git
+
+
+#aqui
+library(distill)
+library(usethis)
+
+
+use_git()
+
+distill::create_website(dir = "amazing website", title = "A cool name of my Website")
+
+
+```
+
+
+
