@@ -9,7 +9,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-- Explore the interactive surveying web mapping:
-http://www.sergeo.deg.ufla.br/webMali/webMapFotos.html
-
-
+-   Explore the interactive surveying in the web: [**click here**](http://www.sergeo.deg.ufla.br/webMali/webMapFotos.html)
