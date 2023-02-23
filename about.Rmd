@@ -7,19 +7,25 @@ This work is part of the international cooperation extension project entitled - 
   
 # About the Authors {-}
 
-**Luciana Sanches**
+### Luciana Sanches
+
+**Affiliation**: Department of Environmental Engineering, Federal University of Lavras, Brazil. e-mail: luciana.sanches@ufla.br
 
 Dr. Sanches graduated with a degree in Sanitary Engineering from the Federal University of Mato Grosso, Brazil, a master's degree in Sanitation, Environment and Water Resources from the Federal University of Minas Gerais, a PhD in Road Engineering, Hydraulic Channels and Ports from Universidad de Cantabria, Spain, a post-doctorate degree in Environmental Physics, Brazil, and a post-doctorate degree in Environmental Sciences from the University of Reading, United Kingdom. She specialized in workplace safety engineering and in project development and management for the Municipal Water Resources Management by the National Water Agency.
 Lattes ID: http://lattes.cnpq.br/2358137001200356
 
 
-**Marcelo de Carvalho Alves**
+### Marcelo de Carvalho Alves
+
+**Affiliation**: Department of Agricultural Engineering, Federal University of Lavras, Brazil. e-mail: marcelo.alves@ufla.br
 
 Dr. Alves is associate professor at the Federal University de Lavras, Brazil. His education includes master's, doctoral, and post-doctoral degrees in Agricultural Engineering at Federal University of Lavras, Brazil. He has varied research interests and has published on surveying, remote sensing, geocomputation and agriculture applications.He has over 20 years of extensive experience in data science, digital image processing and modeling using multiscale, multidisciplinary, multispectral and multitemporal concepts applied to different environments.
 Lattes ID: http://lattes.cnpq.br/1691831453683402
 
 
-**Camila Silva Franco**
+### Camila Silva Franco
+
+**Affiliation**: Department of Environmental Engineering, Federal University of Lavras, Brazil. e-mail: camila.sfranco@ufla.br
 
 Dr. Franco graduated with a degree in  Environmental Engineering from the São Paulo State University Júlio de Mesquita Filho, Brazil, a PhD in Water Resources from the Federal University of Lavras, Brazil. she has worked on several national and international research projects, with expertise in basic sanitation in the spheres: urban solid waste, water treatment and effluent treatment.
 Lattes ID: http://lattes.cnpq.br/8665381315836223

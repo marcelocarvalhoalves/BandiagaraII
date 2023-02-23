@@ -7,7 +7,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Us"
       href: about.html
     - text: "Web Mapping"
       href: webmap.html
