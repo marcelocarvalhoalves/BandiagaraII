@@ -1,6 +1,6 @@
 ---
 title: "Photo Galery"
-description: "Please, see some photos taken in Bandiagara II"
+description: Please, see some photos taken in Bandiagara II
 ---
 <div style="text-align: justify"> 
 Some photos were obtained during the mission from the 10th to the 19th of February 2023, showing Bandiagara II, Koutiala, Mali landscape and socio-economic aspects.

@@ -1,6 +1,6 @@
 ---
 title: "About this Site"
-description: ""
+description: ''
 ---
 <div style="text-align: justify"> 
 This work is part of the international cooperation extension project entitled - Preservação do Potencial Produtivo das Zonas Produtoras de Algodão no  Mali - Cotton Solos -, with thematic area technology and production, developed in partnership by the Federal University of Lavras,  the Agência Brasileira de Cooperação/Ministério das Relações Exteriores  and the Compagnie Malienne pour le Développement du Textile - CMDT-, Koutiala, Mali.
