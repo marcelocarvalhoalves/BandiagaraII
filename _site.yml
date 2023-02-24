@@ -11,6 +11,8 @@ navbar:
       href: about.html
     - text: "Web Mapping"
       href: webmap.html
+    - text: "Photo Galery"
+      href: photo.html  
     - text: "Help"
       href: help.html
 output: distill::distill_article
