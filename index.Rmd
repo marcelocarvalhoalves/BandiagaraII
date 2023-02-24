@@ -1,6 +1,5 @@
 ---
-title: Exploring Areas of Interest in Bandiagara II Using Geocomputation and Geotagged
-  Photos
+title: Exploring Areas of Interest in Bandiagara II Using Geocomputation and Geotagged Photos
 description: |
   Welcome to the website. We hope you enjoy it!
 site: distill::distill_website
